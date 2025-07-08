@@ -95,3 +95,4 @@
 /Users/noppadolsunkul/ProjectDGA/github/sme-juristicrenew-api/sme-juristicrenew-api/obj/Debug/net9.0/sme-juristicrenew-api.pdb
 /Users/noppadolsunkul/ProjectDGA/github/sme-juristicrenew-api/sme-juristicrenew-api/obj/Debug/net9.0/sme-juristicrenew-api.genruntimeconfig.cache
 /Users/noppadolsunkul/ProjectDGA/github/sme-juristicrenew-api/sme-juristicrenew-api/obj/Debug/net9.0/ref/sme-juristicrenew-api.dll
+/Users/noppadolsunkul/ProjectDGA/github/sme-juristicrenew-api/sme-juristicrenew-api/obj/Debug/net9.0/sme-juristicrenew-api.sourcelink.json

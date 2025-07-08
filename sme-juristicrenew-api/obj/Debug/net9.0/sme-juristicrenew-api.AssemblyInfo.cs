@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sme-juristicrenew-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d85cf25fb852c58d3e8cbde07205abd371a9dda5")]
 [assembly: System.Reflection.AssemblyProductAttribute("sme-juristicrenew-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sme-juristicrenew-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
