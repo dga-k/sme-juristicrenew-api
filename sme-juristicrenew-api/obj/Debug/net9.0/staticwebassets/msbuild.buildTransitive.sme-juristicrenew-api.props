@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../buildMultiTargeting/sme-juristicrenew-api.props" />
-</Project>
